@@ -1,0 +1,103 @@
+span {
+    color: orange;
+}
+
+body {
+    font-family: 'Oswald', sans-serif;
+
+    margin: 0;
+}
+
+.div1 {
+    padding-left: 4%;
+    width: 50%;
+    padding-bottom: 4%;
+}
+
+.div1 img {
+    width: 80%;
+    padding-left: 20%;
+}
+
+.first {
+
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+
+
+}
+
+.first-image {
+    width: 50%;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 15px;
+}
+
+.p {
+    font-size: 8px;
+}
+
+.button {
+
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.third {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-bottom: 10%;
+
+}
+
+.third-one {
+    display: flex;
+    padding-left: 2%;
+    padding-bottom: 5%;
+
+
+
+}
+
+.third-two {
+
+    width: 50%;
+    padding-left: 5%;
+    box-shadow: 10px 10px 10px wheat;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+
+}
+
+#again {
+
+    border-image: linear-gradient(black, white);
+    border-image-slice: 1;
+    border-left: 5px solid;
+}
+
+#again2 {
+
+    border-image: linear-gradient(brown, rgb(30, 27, 27));
+    border-image-slice: 1;
+    border-left: 5px solid;
+}
